@@ -1,0 +1,7 @@
+
+body{font-family:Arial,sans-serif;background:#0f172a;color:#fff;text-align:center;margin:20px}
+button{padding:12px 20px;margin:5px;border:none;border-radius:8px;cursor:pointer}
+.album{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:10px}
+.card img{width:100%;border-radius:10px}
+.locked{filter:grayscale(100%) brightness(0.2)}
+.pacote{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:10px;margin:20px 0}
